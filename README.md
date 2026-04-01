@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123nitish&label=Profile%20views&color=0e75b6&style=flat" alt="123nitish" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working as a Programmer Analyst at Cognizant.
 
 - 👨‍💻 All my profiles:  [https://linktr.ee/NitishNirmal?fbclid=PAAaZr9EhH-JGii9GJJbZqOX6ikR3E4gfoQARxq0fQ37B2NQOJn3dhF_ULi6E](https://linktr.ee/NitishNirmal?fbclid=PAAaZr9EhH-JGii9GJJbZqOX6ikR3E4gfoQARxq0fQ37B2NQOJn3dhF_ULi6E)
