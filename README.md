@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working as a Programmer Analyst at Cognizant.
 
-- 👨‍💻 All my profiles:  [https://linktr.ee/NitishNirmal?fbclid=PAAaZr9EhH-JGii9GJJbZqOX6ikR3E4gfoQARxq0fQ37B2NQOJn3dhF_ULi6E](https://linktr.ee/NitishNirmal?fbclid=PAAaZr9EhH-JGii9GJJbZqOX6ikR3E4gfoQARxq0fQ37B2NQOJn3dhF_ULi6E)
-
 - 📫 Reach me at: **nirmal567nitish@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
